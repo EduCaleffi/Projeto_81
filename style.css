@@ -1,0 +1,12 @@
+.fundo_do_corpo{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin:auto;
+}
+#Canvas{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+}
